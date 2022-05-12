@@ -5,7 +5,7 @@ import re
 import time
 
 
-url="https://play.google.com/store/search?q=educational%20apps&c=apps"
+url="https://play.google.com/store/search?q=edtech%20platform&c=apps"
 req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
 webpage = urlopen(req).read()
 
@@ -58,9 +58,10 @@ for game in fd:
 
 print ("\n\n\n")
 df = pd.DataFrame(databank)
-print (df)
+df=df.transpose()
 
-df.to_excel("data.xlsx")
+print (df.info())
+
 df.to_csv("data-un.csv")
 
 
