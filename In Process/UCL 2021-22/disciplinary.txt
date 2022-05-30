@@ -1,0 +1,6424 @@
+01
+
+Sporting CP
+João Palhinha
+Sporting CP - Midfielder
+23
+17
+2
+0
+534
+6
+02
+
+Villarreal
+Capoue
+Villarreal - Midfielder
+19
+17
+3
+1
+1046
+12
+02
+
+Man. City
+Rodri
+Man. City - Midfielder
+19
+4
+2
+0
+842
+10
+02
+
+Salzburg
+Seiwald
+Salzburg - Midfielder
+19
+3
+2
+0
+649
+8
+05
+
+Club Brugge
+Balanta
+Club Brugge - Midfielder
+18
+3
+4
+0
+407
+5
+06
+
+Real Madrid
+Casemiro
+Real Madrid - Midfielder
+17
+18
+3
+0
+914
+11
+06
+
+Real Madrid
+Éder Militão
+Real Madrid - Defender
+17
+16
+4
+0
+1076
+12
+06
+
+Benfica
+Otamendi
+Benfica - Defender
+17
+11
+2
+0
+810
+9
+06
+
+Ajax
+Gravenberch
+Ajax - Midfielder
+17
+11
+1
+0
+703
+8
+06
+
+Ajax
+Haller
+Ajax - Forward
+17
+11
+1
+0
+668
+8
+06
+
+Ajax
+Álvarez
+Ajax - Midfielder
+17
+6
+4
+0
+558
+7
+12
+
+Liverpool
+Mané
+Liverpool - Midfielder
+16
+19
+2
+0
+822
+13
+12
+
+Benfica
+Gilberto
+Benfica - Defender
+16
+13
+1
+0
+715
+9
+12
+
+Porto
+Luis Díaz
+Porto - Forward
+16
+10
+1
+0
+908
+13
+12
+
+Barcelona
+Gavi
+Barcelona - Midfielder
+16
+7
+2
+0
+398
+6
+16
+
+Atlético
+Reinildo
+Atlético - Defender
+15
+15
+2
+0
+816
+10
+16
+
+Salzburg
+Capaldo
+Salzburg - Midfielder
+15
+8
+3
+0
+281
+7
+16
+
+Liverpool
+Keïta
+Liverpool - Midfielder
+15
+7
+0
+0
+487
+10
+16
+
+Real Madrid
+Carvajal
+Real Madrid - Defender
+15
+6
+3
+0
+959
+11
+20
+
+Salzburg
+Camara
+Salzburg - Midfielder
+14
+23
+2
+0
+672
+8
+20
+
+Liverpool
+Fabinho
+Liverpool - Midfielder
+14
+11
+1
+0
+849
+13
+20
+
+Man. City
+Sterling
+Man. City - Forward
+14
+10
+1
+0
+581
+12
+20
+
+Atlético
+Renan Lodi
+Atlético - Defender
+14
+6
+0
+0
+478
+10
+20
+
+Sheriff
+Addo
+Sheriff - Midfielder
+14
+4
+3
+0
+491
+6
+20
+
+Salzburg
+Kristensen
+Salzburg - Defender
+14
+4
+1
+0
+720
+8
+26
+
+Real Madrid
+Vinícius Júnior
+Real Madrid - Forward
+13
+24
+1
+0
+1199
+13
+26
+
+Benfica
+João Mário
+Benfica - Midfielder
+13
+13
+2
+0
+493
+8
+26
+
+Atlético
+Marcos Llorente
+Atlético - Midfielder
+13
+10
+3
+0
+700
+9
+26
+
+Chelsea
+Ziyech
+Chelsea - Midfielder
+13
+8
+2
+0
+446
+9
+26
+
+Salzburg
+Ulmer
+Salzburg - Defender
+13
+2
+2
+0
+716
+8
+31
+
+Atlético
+De Paul
+Atlético - Midfielder
+12
+13
+2
+0
+577
+9
+31
+
+Chelsea
+Havertz
+Chelsea - Midfielder
+12
+9
+1
+0
+672
+9
+31
+
+Porto
+Otávio
+Porto - Midfielder
+12
+8
+1
+0
+450
+6
+31
+
+Inter
+Dumfries
+Inter - Defender
+12
+7
+1
+0
+467
+7
+31
+
+Malmö
+Rakip
+Malmö - Midfielder
+12
+6
+1
+0
+273
+6
+31
+
+Sevilla
+Acuña
+Sevilla - Defender
+12
+6
+0
+0
+379
+5
+31
+
+Liverpool
+Milner
+Liverpool - Midfielder
+12
+4
+3
+0
+211
+8
+31
+
+Atlético
+Vrsaljko
+Atlético - Defender
+12
+2
+1
+0
+304
+5
+31
+
+Chelsea
+Kanté
+Chelsea - Midfielder
+12
+2
+0
+0
+427
+6
+40
+
+Dynamo Kyiv
+Garmash
+Dynamo Kyiv - Midfielder
+11
+15
+2
+0
+325
+6
+40
+
+Bayern
+Lewandowski
+Bayern - Forward
+11
+13
+1
+0
+876
+10
+40
+
+Ajax
+Tadić
+Ajax - Forward
+11
+9
+0
+0
+630
+7
+40
+
+Inter
+Bastoni
+Inter - Defender
+11
+8
+2
+0
+666
+8
+40
+
+Chelsea
+Alonso
+Chelsea - Defender
+11
+7
+1
+0
+548
+8
+40
+
+Malmö
+Čolak
+Malmö - Forward
+11
+7
+1
+0
+500
+6
+40
+
+Malmö
+Innocent
+Malmö - Midfielder
+11
+7
+1
+0
+496
+6
+40
+
+Liverpool
+Diogo Jota
+Liverpool - Forward
+11
+6
+2
+0
+578
+11
+40
+
+Bayern
+L. Hernández
+Bayern - Defender
+11
+6
+2
+0
+572
+8
+40
+
+Leipzig
+Laimer
+Leipzig - Midfielder
+11
+5
+0
+0
+405
+6
+40
+
+Man. City
+João Cancelo
+Man. City - Defender
+11
+4
+3
+0
+840
+9
+40
+
+Chelsea
+Rüdiger
+Chelsea - Defender
+11
+3
+2
+0
+840
+9
+40
+
+Liverpool
+Konaté
+Liverpool - Defender
+11
+3
+1
+0
+720
+8
+40
+
+Bayern
+Müller
+Bayern - Forward
+11
+3
+0
+0
+778
+10
+40
+
+Wolfsburg
+Guilavogui
+Wolfsburg - Midfielder
+11
+2
+4
+1
+429
+5
+55
+
+Young Boys
+Moumi Ngamaleu
+Young Boys - Midfielder
+10
+13
+2
+0
+532
+6
+55
+
+Wolfsburg
+Arnold
+Wolfsburg - Midfielder
+10
+9
+3
+0
+540
+6
+55
+
+Atlético
+Correa
+Atlético - Forward
+10
+8
+2
+0
+401
+10
+55
+
+Leipzig
+Nkunku
+Leipzig - Midfielder
+10
+8
+0
+0
+531
+6
+55
+
+Paris
+Gueye
+Paris - Midfielder
+10
+7
+1
+0
+400
+7
+55
+
+Ajax
+J. Timber
+Ajax - Midfielder
+10
+6
+3
+0
+570
+8
+55
+
+Wolfsburg
+Weghorst
+Wolfsburg - Forward
+10
+6
+2
+0
+398
+5
+55
+
+Inter
+Vidal
+Inter - Midfielder
+10
+6
+1
+0
+409
+7
+55
+
+Man. City
+Bernardo Silva
+Man. City - Midfielder
+10
+6
+0
+0
+878
+11
+55
+
+Chelsea
+Mount
+Chelsea - Midfielder
+10
+6
+0
+0
+538
+7
+55
+
+Bayern
+Upamecano
+Bayern - Defender
+10
+5
+3
+0
+660
+8
+55
+
+Benfica
+Weigl
+Benfica - Midfielder
+10
+5
+2
+0
+810
+9
+55
+
+Sevilla
+Jordán
+Sevilla - Midfielder
+10
+4
+2
+1
+327
+6
+55
+
+Liverpool
+Henderson
+Liverpool - Midfielder
+10
+4
+0
+0
+666
+12
+55
+
+Salzburg
+Adamu
+Salzburg - Forward
+10
+2
+0
+0
+231
+8
+55
+
+Atalanta
+De Roon
+Atalanta - Midfielder
+10
+1
+2
+0
+484
+6
+71
+
+Salzburg
+Adeyemi
+Salzburg - Forward
+9
+18
+2
+0
+607
+8
+71
+
+Man. City
+Grealish
+Man. City - Midfielder
+9
+17
+0
+0
+461
+7
+71
+
+Porto
+Evanilson
+Porto - Forward
+9
+15
+0
+0
+313
+4
+71
+
+Barcelona
+Sergio Busquets
+Barcelona - Midfielder
+9
+14
+1
+0
+487
+6
+71
+
+LOSC
+André
+LOSC - Midfielder
+9
+10
+3
+0
+630
+7
+71
+
+Man. City
+De Bruyne
+Man. City - Midfielder
+9
+9
+2
+0
+734
+10
+71
+
+Ajax
+Mazraoui
+Ajax - Defender
+9
+8
+1
+0
+661
+8
+71
+
+Chelsea
+Jorginho
+Chelsea - Midfielder
+9
+8
+0
+0
+561
+8
+71
+
+Leipzig
+Mukiele
+Leipzig - Defender
+9
+8
+0
+0
+484
+6
+71
+
+LOSC
+Renato Sanches
+LOSC - Midfielder
+9
+8
+0
+0
+407
+5
+71
+
+Villarreal
+Foyth
+Villarreal - Defender
+9
+7
+1
+0
+891
+10
+71
+
+Milan
+Kessié
+Milan - Midfielder
+9
+6
+2
+1
+321
+5
+71
+
+Villarreal
+Albiol
+Villarreal - Defender
+9
+6
+1
+0
+1045
+12
+71
+
+Porto
+Taremi
+Porto - Forward
+9
+6
+1
+0
+494
+6
+71
+
+Villarreal
+Coquelin
+Villarreal - Midfielder
+9
+4
+2
+1
+463
+8
+71
+
+Porto
+Grujić
+Porto - Midfielder
+9
+4
+1
+0
+320
+6
+71
+
+Bayern
+Pavard
+Bayern - Defender
+9
+4
+0
+0
+764
+10
+71
+
+Man. City
+Jesus
+Man. City - Forward
+9
+3
+3
+0
+352
+8
+71
+
+Chelsea
+Azpilicueta
+Chelsea - Defender
+9
+3
+1
+0
+679
+9
+71
+
+Young Boys
+Garcia
+Young Boys - Defender
+9
+2
+1
+0
+435
+5
+71
+
+Real Madrid
+Alaba
+Real Madrid - Defender
+9
+1
+1
+0
+1040
+12
+71
+
+Atlético
+Hermoso
+Atlético - Defender
+9
+1
+1
+0
+425
+6
+71
+
+Young Boys
+Hefti
+Young Boys - Defender
+9
+1
+1
+0
+386
+6
+94
+
+Dortmund
+Bellingham
+Dortmund - Midfielder
+8
+17
+1
+0
+503
+6
+94
+
+Villarreal
+Lo Celso
+Villarreal - Midfielder
+8
+15
+3
+0
+524
+6
+94
+
+Benfica
+Rafa Silva
+Benfica - Forward
+8
+14
+2
+0
+704
+9
+94
+
+LOSC
+Burak Yılmaz
+LOSC - Forward
+8
+11
+2
+0
+529
+7
+94
+
+Wolfsburg
+L. Nmecha
+Wolfsburg - Forward
+8
+9
+3
+0
+322
+5
+94
+
+Juventus
+Alex Sandro
+Juventus - Defender
+8
+9
+0
+0
+553
+7
+94
+
+Leipzig
+André Silva
+Leipzig - Forward
+8
+8
+0
+0
+410
+6
+94
+
+Sheriff
+Traore
+Sheriff - Midfielder
+8
+7
+0
+0
+530
+6
+94
+
+Wolfsburg
+Vranckx
+Wolfsburg - Midfielder
+8
+7
+0
+0
+337
+4
+94
+
+Paris
+Kimpembe
+Paris - Defender
+8
+6
+3
+0
+630
+7
+94
+
+Benfica
+Gonçalo Ramos
+Benfica - Forward
+8
+6
+2
+0
+369
+7
+94
+
+Barcelona
+Piqué
+Barcelona - Defender
+8
+3
+2
+0
+393
+5
+94
+
+Leipzig
+Gvardiol
+Leipzig - Defender
+8
+3
+0
+0
+334
+6
+107
+
+Real Madrid
+Kroos
+Real Madrid - Midfielder
+7
+18
+0
+0
+902
+12
+107
+
+LOSC
+Bamba
+LOSC - Forward
+7
+11
+3
+0
+468
+6
+107
+
+Beşiktaş
+Larin
+Beşiktaş - Forward
+7
+11
+3
+0
+354
+5
+107
+
+Atlético
+Koke
+Atlético - Midfielder
+7
+11
+1
+0
+665
+9
+107
+
+Club Brugge
+Clinton Mata
+Club Brugge - Defender
+7
+10
+1
+0
+528
+6
+107
+
+Inter
+Martínez
+Inter - Forward
+7
+9
+1
+0
+587
+8
+107
+
+Dynamo Kyiv
+Shaparenko
+Dynamo Kyiv - Midfielder
+7
+8
+1
+0
+486
+6
+107
+
+Zenit
+Claudinho
+Zenit - Midfielder
+7
+8
+1
+0
+460
+6
+107
+
+Milan
+Bennacer
+Milan - Midfielder
+7
+8
+1
+0
+376
+6
+107
+
+Sporting CP
+Ugarte
+Sporting CP - Midfielder
+7
+8
+1
+0
+205
+4
+107
+
+Real Madrid
+Mendy
+Real Madrid - Defender
+7
+7
+3
+0
+867
+10
+107
+
+Villarreal
+Pino
+Villarreal - Forward
+7
+7
+3
+0
+431
+7
+107
+
+Real Madrid
+Nacho
+Real Madrid - Defender
+7
+7
+2
+0
+574
+9
+107
+
+Ajax
+Martínez
+Ajax - Defender
+7
+7
+1
+0
+720
+8
+107
+
+Milan
+Saelemaekers
+Milan - Midfielder
+7
+7
+1
+0
+444
+6
+107
+
+Man. United
+Pogba
+Man. United - Midfielder
+7
+7
+0
+0
+347
+6
+107
+
+Atalanta
+Zapata
+Atalanta - Forward
+7
+6
+1
+0
+464
+6
+107
+
+Paris
+Paredes
+Paris - Midfielder
+7
+5
+3
+0
+315
+5
+107
+
+Man. United
+Shaw
+Man. United - Defender
+7
+5
+2
+0
+397
+5
+107
+
+Juventus
+Locatelli
+Juventus - Midfielder
+7
+5
+1
+0
+539
+7
+107
+
+Sheriff
+Bruno
+Sheriff - Midfielder
+7
+5
+0
+0
+312
+6
+107
+
+Milan
+Tomori
+Milan - Defender
+7
+4
+2
+0
+418
+5
+107
+
+Young Boys
+C. Martins Pereira
+Young Boys - Midfielder
+7
+4
+1
+0
+420
+5
+107
+
+Man. United
+McTominay
+Man. United - Midfielder
+7
+4
+1
+0
+400
+5
+107
+
+Chelsea
+Christensen
+Chelsea - Defender
+7
+4
+0
+0
+603
+8
+107
+
+Bayern
+Davies
+Bayern - Midfielder
+7
+4
+0
+0
+477
+7
+107
+
+Bayern
+Goretzka
+Bayern - Midfielder
+7
+4
+0
+0
+466
+6
+107
+
+Beşiktaş
+Souza
+Beşiktaş - Midfielder
+7
+3
+3
+1
+442
+5
+107
+
+Villarreal
+Estupiñán
+Villarreal - Defender
+7
+3
+2
+0
+645
+10
+107
+
+Wolfsburg
+Mbabu
+Wolfsburg - Defender
+7
+3
+2
+0
+328
+6
+107
+
+Sporting CP
+Ricardo Esgaio
+Sporting CP - Defender
+7
+3
+1
+0
+380
+8
+107
+
+Salzburg
+Wöber
+Salzburg - Defender
+7
+3
+0
+0
+573
+7
+107
+
+Young Boys
+Siebatcheu
+Young Boys - Forward
+7
+3
+0
+0
+341
+6
+107
+
+Atlético
+Felipe
+Atlético - Defender
+7
+2
+3
+2
+472
+7
+107
+
+Club Brugge
+Nsoki
+Club Brugge - Defender
+7
+2
+1
+0
+484
+6
+107
+
+Zenit
+Chistiakov
+Zenit - Defender
+7
+1
+2
+1
+444
+5
+107
+
+Porto
+Wendell
+Porto - Defender
+7
+1
+1
+1
+131
+4
+107
+
+Barcelona
+Mingueza
+Barcelona - Defender
+7
+1
+0
+0
+219
+5
+107
+
+Shakhtar Donetsk
+Stepanenko
+Shakhtar Donetsk - Midfielder
+7
+0
+0
+0
+225
+4
+146
+
+Man. City
+Mahrez
+Man. City - Midfielder
+6
+20
+1
+0
+986
+12
+146
+
+Bayern
+Coman
+Bayern - Forward
+6
+16
+1
+0
+632
+9
+146
+
+Sporting CP
+Pedro Porro
+Sporting CP - Defender
+6
+12
+2
+0
+529
+7
+146
+
+Atalanta
+Zappacosta
+Atalanta - Defender
+6
+11
+1
+0
+405
+6
+146
+
+Atalanta
+Freuler
+Atalanta - Midfielder
+6
+11
+0
+0
+526
+6
+146
+
+Shakhtar Donetsk
+Tetê
+Shakhtar Donetsk - Forward
+6
+10
+0
+0
+373
+6
+146
+
+Zenit
+Barrios
+Zenit - Midfielder
+6
+9
+1
+0
+540
+6
+146
+
+Benfica
+Everton
+Benfica - Forward
+6
+9
+0
+0
+543
+9
+146
+
+Atalanta
+Malinovskyi
+Atalanta - Midfielder
+6
+9
+0
+0
+301
+5
+146
+
+Sheriff
+Fernando Costanza
+Sheriff - Defender
+6
+8
+2
+0
+540
+6
+146
+
+Sporting CP
+Matheus Reis
+Sporting CP - Defender
+6
+8
+0
+0
+611
+8
+146
+
+Benfica
+Núñez
+Benfica - Forward
+6
+7
+1
+0
+613
+10
+146
+
+Villarreal
+Danjuma
+Villarreal - Midfielder
+6
+7
+0
+0
+906
+11
+146
+
+Man. United
+Maguire
+Man. United - Defender
+6
+7
+0
+0
+534
+6
+146
+
+Sevilla
+Fernando
+Sevilla - Midfielder
+6
+6
+1
+0
+540
+6
+146
+
+Young Boys
+Elia
+Young Boys - Forward
+6
+6
+1
+0
+489
+6
+146
+
+Shakhtar Donetsk
+Alan Patrick
+Shakhtar Donetsk - Midfielder
+6
+6
+0
+0
+268
+4
+146
+
+LOSC
+Fonte
+LOSC - Defender
+6
+5
+3
+0
+720
+8
+146
+
+LOSC
+Xeka
+LOSC - Midfielder
+6
+5
+3
+0
+435
+7
+146
+
+Chelsea
+Thiago Silva
+Chelsea - Defender
+6
+5
+1
+0
+757
+9
+146
+
+Paris
+Herrera
+Paris - Midfielder
+6
+5
+1
+0
+326
+6
+146
+
+Dortmund
+Malen
+Dortmund - Forward
+6
+5
+0
+0
+392
+6
+146
+
+Juventus
+Rabiot
+Juventus - Midfielder
+6
+4
+2
+0
+536
+7
+146
+
+Young Boys
+Aebischer
+Young Boys - Midfielder
+6
+4
+2
+0
+504
+6
+146
+
+Atlético
+Griezmann
+Atlético - Forward
+6
+4
+0
+1
+518
+9
+146
+
+Chelsea
+Kovačić
+Chelsea - Midfielder
+6
+4
+0
+0
+426
+6
+146
+
+Leipzig
+Forsberg
+Leipzig - Forward
+6
+4
+0
+0
+385
+6
+146
+
+Malmö
+Abubakari
+Malmö - Forward
+6
+4
+0
+0
+116
+4
+146
+
+Paris
+Danilo
+Paris - Midfielder
+6
+3
+2
+0
+362
+7
+146
+
+Leipzig
+Simakan
+Leipzig - Defender
+6
+3
+2
+0
+297
+4
+146
+
+LOSC
+Zeki Çelik
+LOSC - Defender
+6
+3
+1
+0
+591
+7
+146
+
+Beşiktaş
+Batshuayi
+Beşiktaş - Forward
+6
+3
+1
+0
+383
+5
+146
+
+Shakhtar Donetsk
+Fernando
+Shakhtar Donetsk - Midfielder
+6
+3
+1
+0
+350
+5
+146
+
+Sevilla
+Rakitić
+Sevilla - Midfielder
+6
+3
+1
+0
+276
+5
+146
+
+Barcelona
+Nico González
+Barcelona - Midfielder
+6
+3
+1
+0
+247
+4
+146
+
+Atlético
+Matheus Cunha
+Atlético - Forward
+6
+3
+0
+0
+142
+5
+146
+
+LOSC
+Ikoné
+LOSC - Midfielder
+6
+2
+4
+0
+297
+5
+146
+
+Leipzig
+Adams
+Leipzig - Midfielder
+6
+2
+4
+0
+292
+5
+146
+
+Atlético
+Herrera
+Atlético - Midfielder
+6
+2
+2
+0
+226
+4
+146
+
+Bayern
+Nianzou
+Bayern - Midfielder
+6
+2
+1
+0
+212
+4
+146
+
+Villarreal
+Chukwueze
+Villarreal - Midfielder
+6
+2
+0
+0
+273
+9
+146
+
+Barcelona
+Fati
+Barcelona - Forward
+6
+2
+0
+0
+154
+3
+146
+
+Barcelona
+Eric García
+Barcelona - Defender
+6
+1
+3
+1
+247
+4
+146
+
+Porto
+Uribe
+Porto - Midfielder
+6
+1
+3
+0
+289
+4
+146
+
+Dortmund
+Hummels
+Dortmund - Defender
+6
+1
+1
+1
+358
+5
+146
+
+Beşiktaş
+Welinton
+Beşiktaş - Defender
+6
+1
+1
+1
+313
+4
+146
+
+Liverpool
+Matip
+Liverpool - Defender
+6
+1
+1
+0
+630
+7
+146
+
+Dortmund
+Meunier
+Dortmund - Defender
+6
+1
+1
+0
+484
+6
+146
+
+Man. City
+Rúben Dias
+Man. City - Defender
+6
+1
+0
+0
+664
+8
+146
+
+Inter
+Perišić
+Inter - Midfielder
+6
+1
+0
+0
+531
+8
+146
+
+Young Boys
+Rieder
+Young Boys - Midfielder
+6
+1
+0
+0
+272
+6
+146
+
+Malmö
+Ahmedhodžić
+Malmö - Defender
+6
+0
+1
+1
+413
+5
+146
+
+Juventus
+Kulusevski
+Juventus - Midfielder
+6
+0
+1
+0
+80
+5
+146
+
+Shakhtar Donetsk
+Marlon
+Shakhtar Donetsk - Defender
+6
+0
+0
+0
+450
+5
+146
+
+Young Boys
+Lefort
+Young Boys - Defender
+6
+0
+0
+0
+167
+3
+201
+
+Sporting CP
+Paulinho
+Sporting CP - Forward
+5
+14
+2
+0
+582
+8
+201
+
+Juventus
+Morata
+Juventus - Forward
+5
+13
+0
+0
+520
+7
+201
+
+Atlético
+Kondogbia
+Atlético - Midfielder
+5
+11
+2
+0
+578
+9
+201
+
+Real Madrid
+Rodrygo
+Real Madrid - Forward
+5
+11
+1
+0
+505
+11
+201
+
+Juventus
+Chiesa
+Juventus - Forward
+5
+11
+0
+0
+336
+4
+201
+
+Paris
+Verratti
+Paris - Midfielder
+5
+10
+2
+0
+431
+5
+201
+
+Man. City
+Foden
+Man. City - Midfielder
+5
+10
+1
+0
+658
+11
+201
+
+Paris
+Nuno Mendes
+Paris - Defender
+5
+10
+1
+0
+581
+8
+201
+
+Real Madrid
+Camavinga
+Real Madrid - Midfielder
+5
+10
+1
+0
+296
+10
+201
+
+Benfica
+Grimaldo
+Benfica - Defender
+5
+9
+2
+0
+863
+10
+201
+
+Milan
+T. Hernández
+Milan - Defender
+5
+9
+2
+0
+450
+5
+201
+
+Chelsea
+Loftus-Cheek
+Chelsea - Forward
+5
+9
+2
+0
+358
+8
+201
+
+Ajax
+Antony
+Ajax - Forward
+5
+9
+1
+0
+577
+7
+201
+
+Man. United
+Bruno Fernandes
+Man. United - Midfielder
+5
+9
+0
+0
+520
+7
+201
+
+Malmö
+Larsson
+Malmö - Defender
+5
+8
+2
+0
+275
+4
+201
+
+Dynamo Kyiv
+Zabarnyi
+Dynamo Kyiv - Defender
+5
+8
+1
+0
+540
+6
+201
+
+LOSC
+Tiago Djaló
+LOSC - Defender
+5
+8
+1
+0
+533
+7
+201
+
+Shakhtar Donetsk
+Dodô
+Shakhtar Donetsk - Defender
+5
+8
+0
+0
+540
+6
+201
+
+Inter
+Škriniar
+Inter - Defender
+5
+7
+1
+0
+720
+8
+201
+
+Liverpool
+Thiago Alcántara
+Liverpool - Midfielder
+5
+7
+1
+0
+604
+10
+201
+
+Chelsea
+James
+Chelsea - Defender
+5
+7
+1
+0
+505
+6
+201
+
+Liverpool
+Alexander-Arnold
+Liverpool - Defender
+5
+6
+2
+0
+794
+9
+201
+
+Wolfsburg
+Lacroix
+Wolfsburg - Defender
+5
+6
+2
+0
+540
+6
+201
+
+Sevilla
+Suso
+Sevilla - Forward
+5
+6
+1
+0
+228
+4
+201
+
+Inter
+Brozović
+Inter - Midfielder
+5
+6
+0
+0
+635
+8
+201
+
+Salzburg
+Onguéné
+Salzburg - Defender
+5
+5
+1
+0
+437
+5
+201
+
+Bayern
+Musiala
+Bayern - Midfielder
+5
+5
+0
+0
+448
+8
+201
+
+Sheriff
+Castañeda
+Sheriff - Midfielder
+5
+5
+0
+0
+357
+5
+201
+
+Benfica
+Taarabt
+Benfica - Midfielder
+5
+4
+2
+0
+343
+9
+201
+
+Wolfsburg
+Steffen
+Wolfsburg - Midfielder
+5
+4
+2
+0
+258
+5
+201
+
+Dortmund
+Witsel
+Dortmund - Midfielder
+5
+4
+1
+0
+471
+6
+201
+
+Benfica
+Vertonghen
+Benfica - Defender
+5
+4
+0
+0
+900
+10
+201
+
+Inter
+Hakan Çalhanoğlu
+Inter - Midfielder
+5
+4
+0
+0
+419
+6
+201
+
+Club Brugge
+Van Der Brempt
+Club Brugge - Defender
+5
+4
+0
+0
+162
+5
+201
+
+Sevilla
+En-Nesyri
+Sevilla - Forward
+5
+3
+3
+1
+83
+2
+201
+
+Man. City
+Zinchenko
+Man. City - Defender
+5
+3
+2
+0
+501
+8
+201
+
+Villarreal
+Moreno
+Villarreal - Defender
+5
+3
+2
+0
+309
+7
+201
+
+Liverpool
+Robertson
+Liverpool - Defender
+5
+3
+1
+0
+826
+10
+201
+
+Villarreal
+Pedraza
+Villarreal - Midfielder
+5
+3
+1
+0
+431
+10
+201
+
+Shakhtar Donetsk
+Pedrinho
+Shakhtar Donetsk - Midfielder
+5
+3
+0
+0
+343
+4
+201
+
+Bayern
+Tolisso
+Bayern - Midfielder
+5
+3
+0
+0
+234
+4
+201
+
+Malmö
+Brorsson
+Malmö - Defender
+5
+2
+2
+0
+448
+5
+201
+
+Milan
+Giroud
+Milan - Forward
+5
+2
+2
+0
+261
+5
+201
+
+Salzburg
+Okafor
+Salzburg - Midfielder
+5
+2
+1
+0
+345
+6
+201
+
+Leipzig
+Kampl
+Leipzig - Midfielder
+5
+2
+1
+0
+270
+3
+201
+
+Sporting CP
+Bruno Tabata
+Sporting CP - Midfielder
+5
+2
+1
+0
+201
+4
+201
+
+Inter
+De Vrij
+Inter - Defender
+5
+2
+0
+0
+487
+6
+201
+
+Juventus
+Bentancur
+Juventus - Midfielder
+5
+2
+0
+0
+382
+5
+201
+
+Club Brugge
+Sowah
+Club Brugge - Forward
+5
+2
+0
+0
+298
+5
+201
+
+Juventus
+De Sciglio
+Juventus - Defender
+5
+2
+0
+0
+286
+4
+201
+
+Ajax
+Klaassen
+Ajax - Midfielder
+5
+2
+0
+0
+232
+7
+201
+
+Sheriff
+Dulanto
+Sheriff - Defender
+5
+1
+3
+0
+540
+6
+201
+
+Man. United
+Lindelöf
+Man. United - Defender
+5
+1
+1
+0
+426
+5
+201
+
+Porto
+Sérgio Oliveira
+Porto - Midfielder
+5
+1
+1
+0
+300
+6
+201
+
+Shakhtar Donetsk
+Maycon
+Shakhtar Donetsk - Midfielder
+5
+1
+0
+0
+473
+6
+201
+
+Wolfsburg
+Brooks
+Wolfsburg - Defender
+5
+0
+3
+1
+331
+4
+201
+
+Young Boys
+Sierro
+Young Boys - Midfielder
+5
+0
+2
+0
+240
+5
+201
+
+Ajax
+Blind
+Ajax - Defender
+5
+0
+1
+0
+572
+8
+201
+
+Atalanta
+Palomino
+Atalanta - Defender
+5
+0
+1
+0
+450
+5
+201
+
+Man. United
+Dalot
+Man. United - Defender
+5
+0
+1
+0
+233
+3
+201
+
+Sheriff
+Yakhshiboev
+Sheriff - Forward
+5
+0
+0
+0
+205
+3
+201
+
+Juventus
+Kean
+Juventus - Forward
+5
+0
+0
+0
+168
+6
+263
+
+Paris
+Neymar
+Paris - Forward
+4
+20
+1
+0
+468
+6
+263
+
+Sevilla
+Ocampos
+Sevilla - Midfielder
+4
+18
+2
+0
+463
+6
+263
+
+Villarreal
+Parejo
+Villarreal - Midfielder
+4
+17
+2
+0
+1055
+12
+263
+
+Atlético
+João Félix
+Atlético - Forward
+4
+13
+2
+0
+573
+8
+263
+
+Liverpool
+Salah
+Liverpool - Forward
+4
+12
+0
+0
+1008
+13
+263
+
+LOSC
+David
+LOSC - Forward
+4
+12
+0
+0
+679
+8
+263
+
+Man. United
+Ronaldo
+Man. United - Forward
+4
+11
+1
+0
+611
+7
+263
+
+Man. United
+Fred
+Man. United - Midfielder
+4
+10
+1
+0
+433
+6
+263
+
+Sporting CP
+Matheus Nunes
+Sporting CP - Midfielder
+4
+9
+3
+0
+509
+6
+263
+
+Zenit
+Wendel
+Zenit - Midfielder
+4
+8
+1
+0
+484
+6
+263
+
+Real Madrid
+Lucas Vázquez
+Real Madrid - Midfielder
+4
+8
+1
+0
+349
+8
+263
+
+Liverpool
+Tsimikas
+Liverpool - Defender
+4
+8
+0
+0
+344
+5
+263
+
+Man. City
+Gündoğan
+Man. City - Midfielder
+4
+7
+1
+0
+660
+10
+263
+
+Barcelona
+F. de Jong
+Barcelona - Midfielder
+4
+7
+1
+0
+523
+6
+263
+
+Beşiktaş
+Bozdoğan
+Beşiktaş - Midfielder
+4
+7
+1
+0
+219
+4
+263
+
+Porto
+Zaidu
+Porto - Defender
+4
+6
+1
+0
+389
+6
+263
+
+Beşiktaş
+Ghezzal
+Beşiktaş - Midfielder
+4
+6
+1
+0
+345
+5
+263
+
+Sevilla
+Lamela
+Sevilla - Midfielder
+4
+6
+1
+0
+119
+4
+263
+
+Juventus
+Danilo
+Juventus - Defender
+4
+6
+0
+0
+450
+5
+263
+
+Zenit
+Douglas Santos
+Zenit - Defender
+4
+6
+0
+0
+444
+5
+263
+
+Liverpool
+Origi
+Liverpool - Forward
+4
+6
+0
+0
+187
+7
+263
+
+Real Madrid
+Valverde
+Real Madrid - Midfielder
+4
+5
+2
+0
+804
+11
+263
+
+Paris
+Wijnaldum
+Paris - Midfielder
+4
+5
+0
+0
+261
+5
+263
+
+Juventus
+Arthur
+Juventus - Midfielder
+4
+4
+1
+0
+264
+6
+263
+
+Beşiktaş
+Vida
+Beşiktaş - Defender
+4
+4
+1
+0
+180
+2
+263
+
+Chelsea
+Pulišić
+Chelsea - Midfielder
+4
+4
+0
+0
+367
+7
+263
+
+Liverpool
+N. Williams
+Liverpool - Defender
+4
+4
+0
+0
+180
+3
+263
+
+Beşiktaş
+Montero
+Beşiktaş - Defender
+4
+3
+2
+0
+306
+4
+263
+
+Atlético
+Giménez
+Atlético - Defender
+4
+3
+1
+0
+585
+7
+263
+
+Sheriff
+Cristiano
+Sheriff - Defender
+4
+3
+1
+0
+540
+6
+263
+
+Dortmund
+Reus
+Dortmund - Midfielder
+4
+3
+1
+0
+499
+6
+263
+
+Leipzig
+Orbán
+Leipzig - Defender
+4
+3
+1
+0
+315
+4
+263
+
+Chelsea
+Hudson-Odoi
+Chelsea - Midfielder
+4
+3
+1
+0
+289
+5
+263
+
+Beşiktaş
+Rosier
+Beşiktaş - Defender
+4
+3
+0
+0
+405
+5
+263
+
+Sheriff
+Nikolov
+Sheriff - Midfielder
+4
+3
+0
+0
+97
+5
+263
+
+Leipzig
+Angeliño
+Leipzig - Defender
+4
+2
+2
+1
+432
+5
+263
+
+Man. City
+Laporte
+Man. City - Defender
+4
+2
+2
+0
+794
+9
+263
+
+Wolfsburg
+Roussillon
+Wolfsburg - Defender
+4
+2
+2
+0
+362
+6
+263
+
+Sevilla
+Delaney
+Sevilla - Midfielder
+4
+2
+2
+0
+200
+4
+263
+
+Liverpool
+Van Dijk
+Liverpool - Defender
+4
+2
+1
+0
+810
+9
+263
+
+Atalanta
+Demiral
+Atalanta - Defender
+4
+2
+1
+0
+370
+6
+263
+
+Milan
+Rafael Leão
+Milan - Forward
+4
+2
+1
+0
+294
+4
+263
+
+Man. United
+Van de Beek
+Man. United - Midfielder
+4
+2
+1
+0
+204
+4
+263
+
+Man. United
+Wan-Bissaka
+Man. United - Defender
+4
+2
+0
+1
+419
+6
+263
+
+Club Brugge
+Hendry
+Club Brugge - Defender
+4
+2
+0
+0
+540
+6
+263
+
+Salzburg
+Sučić
+Salzburg - Midfielder
+4
+2
+0
+0
+516
+8
+263
+
+Bayern
+Süle
+Bayern - Defender
+4
+2
+0
+0
+515
+7
+263
+
+Barcelona
+Jordi Alba
+Barcelona - Defender
+4
+2
+0
+0
+375
+5
+263
+
+Liverpool
+Firmino
+Liverpool - Midfielder
+4
+2
+0
+0
+323
+7
+263
+
+Beşiktaş
+Kenan Karaman
+Beşiktaş - Forward
+4
+2
+0
+0
+264
+5
+263
+
+Paris
+Di María
+Paris - Forward
+4
+2
+0
+0
+260
+5
+263
+
+Leipzig
+Poulsen
+Leipzig - Forward
+4
+1
+1
+0
+147
+4
+263
+
+Inter
+D'Ambrosio
+Inter - Defender
+4
+1
+1
+0
+147
+3
+263
+
+Dortmund
+Tigges
+Dortmund - Forward
+4
+1
+0
+0
+100
+2
+263
+
+Dynamo Kyiv
+Syrota
+Dynamo Kyiv - Defender
+4
+0
+0
+0
+450
+5
+263
+
+Milan
+Romagnoli
+Milan - Defender
+4
+0
+0
+0
+392
+5
+263
+
+Young Boys
+Camara
+Young Boys - Defender
+4
+0
+0
+0
+347
+4
+263
+
+Salzburg
+Solet
+Salzburg - Defender
+4
+0
+0
+0
+328
+5
+263
+
+Salzburg
+Šeško
+Salzburg - Forward
+4
+0
+0
+0
+234
+6
+263
+
+Paris
+Diallo
+Paris - Defender
+4
+0
+0
+0
+165
+2
+263
+
+Dortmund
+Reinier
+Dortmund - Forward
+4
+0
+0
+0
+126
+3
+263
+
+Bayern
+Marc Roca
+Bayern - Defender
+4
+0
+0
+0
+78
+4
+263
+
+Young Boys
+Mambimbi
+Young Boys - Forward
+4
+0
+0
+0
+60
+4
+326
+
+Bayern
+Kimmich
+Bayern - Midfielder
+3
+17
+1
+0
+702
+8
+326
+
+Zenit
+Malcom
+Zenit - Forward
+3
+14
+0
+0
+434
+6
+326
+
+Salzburg
+Aaronson
+Salzburg - Midfielder
+3
+13
+0
+0
+715
+8
+326
+
+Milan
+Brahim Díaz
+Milan - Midfielder
+3
+12
+1
+0
+351
+5
+326
+
+Sporting CP
+Sarabia
+Sporting CP - Forward
+3
+12
+0
+0
+510
+8
+326
+
+Paris
+Mbappé
+Paris - Forward
+3
+11
+1
+0
+673
+8
+326
+
+Paris
+Messi
+Paris - Forward
+3
+11
+1
+0
+630
+7
+326
+
+Inter
+Džeko
+Inter - Forward
+3
+10
+0
+0
+541
+7
+326
+
+Juventus
+Cuadrado
+Juventus - Midfielder
+3
+9
+2
+0
+472
+7
+326
+
+Real Madrid
+Modrić
+Real Madrid - Midfielder
+3
+8
+1
+0
+1077
+13
+326
+
+Milan
+Krunić
+Milan - Midfielder
+3
+8
+0
+0
+252
+4
+326
+
+Paris
+Hakimi
+Paris - Defender
+3
+7
+2
+0
+718
+8
+326
+
+Villarreal
+Gerard Moreno
+Villarreal - Forward
+3
+7
+1
+0
+524
+7
+326
+
+Inter
+Barella
+Inter - Midfielder
+3
+7
+0
+1
+496
+6
+326
+
+Atalanta
+Mæhle
+Atalanta - Defender
+3
+7
+0
+0
+435
+5
+326
+
+Porto
+Pepe
+Porto - Defender
+3
+6
+1
+0
+349
+5
+326
+
+Sporting CP
+Daniel Bragança
+Sporting CP - Midfielder
+3
+6
+1
+0
+131
+5
+326
+
+Barcelona
+Depay
+Barcelona - Forward
+3
+6
+0
+0
+525
+6
+326
+
+Milan
+Tonali
+Milan - Midfielder
+3
+6
+0
+0
+333
+6
+326
+
+Villarreal
+Trigueros
+Villarreal - Midfielder
+3
+6
+0
+0
+330
+9
+326
+
+Sevilla
+Munir
+Sevilla - Forward
+3
+6
+0
+0
+204
+4
+326
+
+Dynamo Kyiv
+Tsygankov
+Dynamo Kyiv - Midfielder
+3
+5
+1
+0
+490
+6
+326
+
+Club Brugge
+Vanaken
+Club Brugge - Midfielder
+3
+5
+0
+0
+540
+6
+326
+
+Dynamo Kyiv
+Mykolenko
+Dynamo Kyiv - Defender
+3
+5
+0
+0
+450
+5
+326
+
+Liverpool
+Jones
+Liverpool - Midfielder
+3
+5
+0
+0
+185
+4
+326
+
+Porto
+Mbemba
+Porto - Defender
+3
+4
+2
+1
+450
+5
+326
+
+Dynamo Kyiv
+Sydorchuk
+Dynamo Kyiv - Midfielder
+3
+4
+2
+0
+536
+6
+326
+
+Atlético
+Luis Suárez
+Atlético - Forward
+3
+4
+2
+0
+347
+7
+326
+
+Sevilla
+Jesús Navas
+Sevilla - Defender
+3
+4
+1
+0
+332
+4
+326
+
+Man. City
+Aké
+Man. City - Defender
+3
+4
+1
+0
+324
+6
+326
+
+Man. United
+Rashford
+Man. United - Forward
+3
+4
+1
+0
+257
+5
+326
+
+Porto
+Corona
+Porto - Forward
+3
+4
+1
+0
+212
+4
+326
+
+Shakhtar Donetsk
+Mudryk
+Shakhtar Donetsk - Midfielder
+3
+4
+1
+0
+179
+6
+326
+
+Sporting CP
+Tiago Tomás
+Sporting CP - Forward
+3
+4
+1
+0
+162
+5
+326
+
+Dynamo Kyiv
+Verbič
+Dynamo Kyiv - Midfielder
+3
+4
+1
+0
+91
+3
+326
+
+Sevilla
+Koundé
+Sevilla - Defender
+3
+4
+0
+0
+450
+5
+326
+
+Malmö
+Berget
+Malmö - Midfielder
+3
+4
+0
+0
+438
+5
+326
+
+Sporting CP
+Pedro Gonçalves
+Sporting CP - Midfielder
+3
+4
+0
+0
+329
+5
+326
+
+Zenit
+Kuzyaev
+Zenit - Midfielder
+3
+4
+0
+0
+257
+4
+326
+
+Leipzig
+Olmo
+Leipzig - Forward
+3
+4
+0
+0
+88
+2
+326
+
+Man. City
+Stones
+Man. City - Defender
+3
+3
+1
+0
+637
+8
+326
+
+Malmö
+Christiansen
+Malmö - Midfielder
+3
+3
+1
+0
+328
+4
+326
+
+Man. United
+Greenwood
+Man. United - Forward
+3
+3
+1
+0
+304
+4
+326
+
+Malmö
+Peña
+Malmö - Midfielder
+3
+3
+1
+0
+281
+5
+326
+
+Shakhtar Donetsk
+Marcos Antônio
+Shakhtar Donetsk - Midfielder
+3
+3
+1
+0
+256
+5
+326
+
+Barcelona
+Dest
+Barcelona - Defender
+3
+3
+1
+0
+230
+4
+326
+
+Bayern
+Sarr
+Bayern - Defender
+3
+3
+1
+0
+125
+5
+326
+
+Sevilla
+Rekik
+Sevilla - Defender
+3
+3
+1
+0
+125
+4
+326
+
+Paris
+Marquinhos
+Paris - Defender
+3
+3
+0
+0
+720
+8
+326
+
+Atlético
+Lemar
+Atlético - Midfielder
+3
+3
+0
+0
+377
+8
+326
+
+Dynamo Kyiv
+Kędziora
+Dynamo Kyiv - Defender
+3
+3
+0
+0
+366
+5
+326
+
+Malmö
+M. Olsson
+Malmö - Defender
+3
+3
+0
+0
+284
+6
+326
+
+Villarreal
+Dia
+Villarreal - Forward
+3
+3
+0
+0
+258
+8
+326
+
+Liverpool
+Minamino
+Liverpool - Forward
+3
+3
+0
+0
+215
+4
+326
+
+Atalanta
+Koopmeiners
+Atalanta - Midfielder
+3
+3
+0
+0
+210
+5
+326
+
+Leipzig
+Brobbey
+Leipzig - Forward
+3
+3
+0
+0
+115
+5
+326
+
+Juventus
+De Ligt
+Juventus - Defender
+3
+2
+2
+0
+627
+7
+326
+
+Villarreal
+Pau Torres
+Villarreal - Defender
+3
+2
+1
+0
+1080
+12
+326
+
+Sporting CP
+Gonçalo Inácio
+Sporting CP - Defender
+3
+2
+1
+0
+561
+7
+326
+
+Man. United
+Varane
+Man. United - Defender
+3
+2
+1
+0
+353
+5
+326
+
+Barcelona
+Lenglet
+Barcelona - Defender
+3
+2
+1
+0
+345
+4
+326
+
+Inter
+Dimarco
+Inter - Defender
+3
+2
+1
+0
+283
+7
+326
+
+Juventus
+McKennie
+Juventus - Midfielder
+3
+2
+0
+0
+388
+6
+326
+
+Club Brugge
+Sobol
+Club Brugge - Defender
+3
+2
+0
+0
+331
+4
+326
+
+Man. United
+Elanga
+Man. United - Forward
+3
+2
+0
+0
+172
+3
+326
+
+Ajax
+Berghuis
+Ajax - Forward
+3
+1
+1
+0
+628
+8
+326
+
+Sevilla
+Rafa Mir
+Sevilla - Forward
+3
+1
+1
+0
+271
+6
+326
+
+Dortmund
+Knauff
+Dortmund - Midfielder
+3
+1
+1
+0
+20
+3
+326
+
+Man. City
+Walker
+Man. City - Defender
+3
+1
+0
+1
+577
+7
+326
+
+Young Boys
+Lauper
+Young Boys - Midfielder
+3
+1
+0
+0
+462
+6
+326
+
+Wolfsburg
+Baku
+Wolfsburg - Midfielder
+3
+1
+0
+0
+413
+6
+326
+
+Bayern
+Gnabry
+Bayern - Forward
+3
+1
+0
+0
+391
+8
+326
+
+Atalanta
+Tolói
+Atalanta - Defender
+3
+1
+0
+0
+360
+4
+326
+
+Zenit
+Azmoun
+Zenit - Forward
+3
+1
+0
+0
+303
+5
+326
+
+Atalanta
+Djimsiti
+Atalanta - Defender
+3
+1
+0
+0
+260
+5
+326
+
+Leipzig
+Haidara
+Leipzig - Midfielder
+3
+1
+0
+0
+182
+4
+326
+
+Juventus
+Rugani
+Juventus - Defender
+3
+1
+0
+0
+177
+4
+326
+
+Chelsea
+Saúl Ñíguez
+Chelsea - Midfielder
+3
+1
+0
+0
+159
+5
+326
+
+Porto
+Vitinha
+Porto - Midfielder
+3
+0
+2
+0
+218
+6
+326
+
+Leipzig
+Klostermann
+Leipzig - Defender
+3
+0
+1
+0
+357
+5
+326
+
+Milan
+Kalulu
+Milan - Defender
+3
+0
+1
+0
+216
+5
+326
+
+Wolfsburg
+Bornauw
+Wolfsburg - Defender
+3
+0
+1
+0
+204
+3
+326
+
+Chelsea
+Chalobah
+Chelsea - Defender
+3
+0
+1
+0
+175
+3
+326
+
+Bayern
+Sabitzer
+Bayern - Midfielder
+3
+0
+1
+0
+133
+5
+326
+
+Bayern
+Richards
+Bayern - Defender
+3
+0
+1
+0
+52
+4
+326
+
+Villarreal
+Moi Gómez
+Villarreal - Midfielder
+3
+0
+0
+0
+222
+6
+326
+
+Ajax
+Neres
+Ajax - Forward
+3
+0
+0
+0
+203
+5
+326
+
+Dortmund
+Wolf
+Dortmund - Midfielder
+3
+0
+0
+0
+170
+5
+326
+
+Club Brugge
+Vormer
+Club Brugge - Midfielder
+3
+0
+0
+0
+156
+4
+326
+
+Dynamo Kyiv
+Shepeliev
+Dynamo Kyiv - Midfielder
+3
+0
+0
+0
+54
+2
+326
+
+Ajax
+Taylor
+Ajax - Midfielder
+3
+0
+0
+0
+38
+3
+417
+
+Dynamo Kyiv
+Buyalskiy
+Dynamo Kyiv - Midfielder
+2
+14
+1
+0
+436
+5
+417
+
+Benfica
+Yaremchuk
+Benfica - Forward
+2
+13
+2
+0
+514
+10
+417
+
+Club Brugge
+Lang
+Club Brugge - Forward
+2
+8
+3
+0
+528
+6
+417
+
+LOSC
+Gudmundsson
+LOSC - Defender
+2
+7
+1
+0
+243
+4
+417
+
+Man. United
+Alex Telles
+Man. United - Defender
+2
+6
+2
+0
+293
+4
+417
+
+Beşiktaş
+Pjanic
+Beşiktaş - Midfielder
+2
+6
+1
+0
+261
+3
+417
+
+Juventus
+Dybala
+Juventus - Forward
+2
+6
+0
+0
+255
+5
+417
+
+Wolfsburg
+Paulo Otávio
+Wolfsburg - Defender
+2
+6
+0
+0
+171
+4
+417
+
+Bayern
+Sané
+Bayern - Midfielder
+2
+5
+0
+0
+798
+10
+417
+
+Benfica
+André Almeida
+Benfica - Defender
+2
+5
+0
+0
+236
+5
+417
+
+Man. United
+Matić
+Man. United - Midfielder
+2
+4
+2
+0
+194
+8
+417
+
+Real Madrid
+Benzema
+Real Madrid - Forward
+2
+4
+1
+0
+1106
+12
+417
+
+Beşiktaş
+Alex Teixeira
+Beşiktaş - Midfielder
+2
+4
+1
+0
+184
+3
+417
+
+Club Brugge
+Rits
+Club Brugge - Midfielder
+2
+4
+0
+0
+417
+6
+417
+
+Wolfsburg
+Lukebakio
+Wolfsburg - Forward
+2
+4
+0
+0
+296
+6
+417
+
+Juventus
+Bernardeschi
+Juventus - Midfielder
+2
+4
+0
+0
+292
+5
+417
+
+Wolfsburg
+Gerhardt
+Wolfsburg - Midfielder
+2
+4
+0
+0
+192
+5
+417
+
+Milan
+Messias Junior
+Milan - Forward
+2
+4
+0
+0
+115
+2
+417
+
+Zenit
+Rakitskyy
+Zenit - Defender
+2
+3
+1
+0
+497
+6
+417
+
+Dynamo Kyiv
+Tymchyk
+Dynamo Kyiv - Defender
+2
+3
+1
+0
+160
+4
+417
+
+Beşiktaş
+Hutchinson
+Beşiktaş - Midfielder
+2
+3
+1
+0
+156
+4
+417
+
+Atalanta
+Muriel
+Atalanta - Forward
+2
+3
+1
+0
+130
+5
+417
+
+Sevilla
+Augustinsson
+Sevilla - Defender
+2
+3
+1
+0
+80
+3
+417
+
+Shakhtar Donetsk
+Matviyenko
+Shakhtar Donetsk - Defender
+2
+3
+0
+0
+360
+4
+417
+
+Milan
+Calabria
+Milan - Defender
+2
+3
+0
+0
+315
+4
+417
+
+Atalanta
+Pessina
+Atalanta - Midfielder
+2
+3
+0
+0
+211
+4
+417
+
+Porto
+Toni Martínez
+Porto - Forward
+2
+3
+0
+0
+144
+6
+417
+
+Inter
+Alexis Sánchez
+Inter - Forward
+2
+2
+2
+1
+155
+6
+417
+
+Sheriff
+S. Thill
+Sheriff - Midfielder
+2
+2
+1
+0
+540
+6
+417
+
+Villarreal
+Mario Gaspar
+Villarreal - Defender
+2
+2
+1
+0
+93
+2
+417
+
+Leipzig
+Moriba
+Leipzig - Midfielder
+2
+2
+1
+0
+60
+3
+417
+
+LOSC
+Yusuf Yazıcı
+LOSC - Midfielder
+2
+2
+1
+0
+47
+4
+417
+
+Dortmund
+Brandt
+Dortmund - Midfielder
+2
+2
+0
+0
+395
+5
+417
+
+Shakhtar Donetsk
+Solomon
+Shakhtar Donetsk - Midfielder
+2
+2
+0
+0
+322
+5
+417
+
+Chelsea
+Lukaku
+Chelsea - Forward
+2
+2
+0
+0
+320
+6
+417
+
+Liverpool
+Oxlade-Chamberlain
+Liverpool - Midfielder
+2
+2
+0
+0
+300
+6
+417
+
+LOSC
+Weah
+LOSC - Forward
+2
+2
+0
+0
+255
+5
+417
+
+Dortmund
+Dahoud
+Dortmund - Midfielder
+2
+2
+0
+0
+212
+4
+417
+
+Dortmund
+Haaland
+Dortmund - Forward
+2
+2
+0
+0
+203
+3
+417
+
+Man. United
+Bailly
+Man. United - Defender
+2
+2
+0
+0
+180
+2
+417
+
+Zenit
+Mostovoy
+Zenit - Midfielder
+2
+2
+0
+0
+150
+5
+417
+
+Zenit
+Erokhin
+Zenit - Midfielder
+2
+2
+0
+0
+104
+6
+417
+
+Milan
+Ballo
+Milan - Defender
+2
+2
+0
+0
+91
+2
+417
+
+Dynamo Kyiv
+Supryaha
+Dynamo Kyiv - Forward
+2
+2
+0
+0
+81
+2
+417
+
+Malmö
+L. Nielsen
+Malmö - Defender
+2
+1
+2
+0
+450
+5
+417
+
+Benfica
+Verissimo
+Benfica - Defender
+2
+1
+1
+0
+270
+3
+417
+
+Atalanta
+Pašalić
+Atalanta - Midfielder
+2
+1
+1
+0
+220
+5
+417
+
+Man. United
+Cavani
+Man. United - Forward
+2
+1
+1
+0
+75
+4
+417
+
+Milan
+Kjær
+Milan - Defender
+2
+1
+0
+0
+270
+3
+417
+
+Beşiktaş
+Necip Uysal
+Beşiktaş - Midfielder
+2
+1
+0
+0
+189
+3
+417
+
+Chelsea
+Chilwell
+Chelsea - Defender
+2
+1
+0
+0
+188
+4
+417
+
+Barcelona
+Pedri
+Barcelona - Midfielder
+2
+1
+0
+0
+158
+2
+417
+
+Benfica
+Lázaro
+Benfica - Midfielder
+2
+1
+0
+0
+114
+6
+417
+
+Inter
+Ranocchia
+Inter - Defender
+2
+1
+0
+0
+98
+3
+417
+
+Club Brugge
+Dost
+Club Brugge - Forward
+2
+1
+0
+0
+68
+3
+417
+
+Bayern
+Choupo-Moting
+Bayern - Midfielder
+2
+1
+0
+0
+49
+4
+417
+
+Zenit
+Lovren
+Zenit - Defender
+2
+0
+2
+0
+315
+4
+417
+
+Zenit
+Karavaev
+Zenit - Defender
+2
+0
+1
+0
+299
+4
+417
+
+Young Boys
+Fassnacht
+Young Boys - Midfielder
+2
+0
+1
+0
+269
+3
+417
+
+Ajax
+Schuurs
+Ajax - Defender
+2
+0
+1
+0
+146
+3
+417
+
+Wolfsburg
+Waldschmidt
+Wolfsburg - Forward
+2
+0
+1
+0
+119
+3
+417
+
+Milan
+Rebić
+Milan - Forward
+2
+0
+1
+0
+117
+2
+417
+
+Sporting CP
+Slimani
+Sporting CP - Forward
+2
+0
+1
+0
+104
+2
+417
+
+Dortmund
+Zagadou
+Dortmund - Defender
+2
+0
+1
+0
+97
+2
+417
+
+Salzburg
+Kjærgaard
+Salzburg - Midfielder
+2
+0
+1
+0
+38
+4
+417
+
+Dortmund
+Moukoko
+Dortmund - Forward
+2
+0
+1
+0
+20
+1
+417
+
+Real Madrid
+Asensio
+Real Madrid - Forward
+2
+0
+0
+0
+207
+8
+417
+
+Dortmund
+Schulz
+Dortmund - Defender
+2
+0
+0
+0
+195
+4
+417
+
+Beşiktaş
+Salih Uçan
+Beşiktaş - Midfielder
+2
+0
+0
+0
+109
+5
+417
+
+Atalanta
+Gosens
+Atalanta - Midfielder
+2
+0
+0
+0
+101
+2
+417
+
+Liverpool
+Phillips
+Liverpool - Defender
+2
+0
+0
+0
+91
+2
+417
+
+Sporting CP
+Jovane Cabral
+Sporting CP - Forward
+2
+0
+0
+0
+79
+3
+417
+
+Ajax
+Rensch
+Ajax - Defender
+2
+0
+0
+0
+71
+5
+417
+
+Man. City
+Delap
+Man. City - Forward
+2
+0
+0
+0
+6
+1
+491
+
+Man. City
+Fernandinho
+Man. City - Midfielder
+1
+12
+1
+0
+347
+8
+491
+
+Club Brugge
+De Ketelaere
+Club Brugge - Forward
+1
+11
+0
+0
+500
+6
+491
+
+Atalanta
+Iličić
+Atalanta - Midfielder
+1
+11
+0
+0
+249
+4
+491
+
+Malmö
+Birmančević
+Malmö - Midfielder
+1
+10
+0
+0
+356
+6
+491
+
+Sheriff
+Kolovos
+Sheriff - Midfielder
+1
+8
+1
+0
+405
+6
+491
+
+Atlético
+Carrasco
+Atlético - Forward
+1
+7
+0
+1
+472
+7
+491
+
+Benfica
+Meite
+Benfica - Midfielder
+1
+7
+0
+0
+155
+3
+491
+
+Barcelona
+Ronald Araújo
+Barcelona - Defender
+1
+5
+1
+0
+367
+5
+491
+
+Sevilla
+Gómez
+Sevilla - Forward
+1
+5
+0
+0
+322
+5
+491
+
+Ajax
+Tagliafico
+Ajax - Defender
+1
+5
+0
+0
+139
+3
+491
+
+Milan
+Bakayoko
+Milan - Defender
+1
+4
+1
+0
+56
+3
+491
+
+Shakhtar Donetsk
+Ismaily
+Shakhtar Donetsk - Defender
+1
+4
+0
+0
+355
+5
+491
+
+Porto
+João Mário
+Porto - Forward
+1
+4
+0
+0
+351
+4
+491
+
+Atlético
+Trippier
+Atlético - Defender
+1
+4
+0
+0
+220
+3
+491
+
+Young Boys
+Bürgy
+Young Boys - Defender
+1
+4
+0
+0
+180
+2
+491
+
+LOSC
+Gomes
+LOSC - Midfielder
+1
+4
+0
+0
+168
+4
+491
+
+Barcelona
+Coutinho
+Barcelona - Forward
+1
+4
+0
+0
+109
+4
+491
+
+Dynamo Kyiv
+Vitinho
+Dynamo Kyiv - Midfielder
+1
+4
+0
+0
+93
+3
+491
+
+Sevilla
+Diego Carlos
+Sevilla - Defender
+1
+3
+2
+0
+539
+6
+491
+
+Sporting CP
+Coates
+Sporting CP - Defender
+1
+3
+1
+0
+540
+6
+491
+
+LOSC
+Botman
+LOSC - Defender
+1
+3
+1
+0
+418
+5
+491
+
+Real Madrid
+Jović
+Real Madrid - Forward
+1
+3
+1
+0
+113
+3
+491
+
+Man. United
+Shoretire
+Man. United - Midfielder
+1
+3
+1
+0
+22
+1
+491
+
+Zenit
+Dzyuba
+Zenit - Forward
+1
+3
+0
+0
+277
+6
+491
+
+LOSC
+Onana
+LOSC - Midfielder
+1
+3
+0
+0
+257
+8
+491
+
+Leipzig
+Szoboszlai
+Leipzig - Midfielder
+1
+3
+0
+0
+209
+4
+491
+
+Dynamo Kyiv
+Karavaev
+Dynamo Kyiv - Defender
+1
+3
+0
+0
+154
+6
+491
+
+Real Madrid
+E. Hazard
+Real Madrid - Forward
+1
+3
+0
+0
+84
+3
+491
+
+Inter
+Darmian
+Inter - Defender
+1
+2
+1
+0
+196
+5
+491
+
+Sevilla
+Montiel
+Sevilla - Defender
+1
+2
+1
+0
+186
+4
+491
+
+Milan
+Ibrahimović
+Milan - Forward
+1
+2
+1
+0
+160
+4
+491
+
+Dortmund
+Akanji
+Dortmund - Defender
+1
+2
+0
+0
+450
+5
+491
+
+Beşiktaş
+Meraş
+Beşiktaş - Defender
+1
+2
+0
+0
+253
+3
+491
+
+Sporting CP
+Nuno Santos
+Sporting CP - Forward
+1
+2
+0
+0
+218
+7
+491
+
+Sheriff
+Yansané
+Sheriff - Forward
+1
+2
+0
+0
+156
+3
+491
+
+Beşiktaş
+Rıdvan Yılmaz
+Beşiktaş - Defender
+1
+2
+0
+0
+135
+2
+491
+
+Barcelona
+Dembélé
+Barcelona - Forward
+1
+2
+0
+0
+122
+3
+491
+
+Young Boys
+Maceiras
+Young Boys - Defender
+1
+2
+0
+0
+113
+3
+491
+
+Inter
+Correa
+Inter - Forward
+1
+2
+0
+0
+106
+5
+491
+
+Porto
+Fábio Vieira
+Porto - Midfielder
+1
+2
+0
+0
+85
+2
+491
+
+Shakhtar Donetsk
+Bondarenko
+Shakhtar Donetsk - Midfielder
+1
+2
+0
+0
+84
+2
+491
+
+Sporting CP
+Esteves
+Sporting CP - Defender
+1
+2
+0
+0
+73
+1
+491
+
+Zenit
+Krugovoi
+Zenit - Defender
+1
+2
+0
+0
+68
+6
+491
+
+Atalanta
+Pezzella
+Atalanta - Defender
+1
+2
+0
+0
+56
+3
+491
+
+Man. City
+McAtee
+Man. City - Midfielder
+1
+2
+0
+0
+45
+1
+491
+
+Sheriff
+Arboleda
+Sheriff - Defender
+1
+1
+1
+0
+540
+6
+491
+
+Atlético
+Savić
+Atlético - Defender
+1
+1
+1
+0
+450
+5
+491
+
+Malmö
+Rieks
+Malmö - Midfielder
+1
+1
+1
+0
+222
+3
+491
+
+Malmö
+Moisander
+Malmö - Defender
+1
+1
+1
+0
+187
+3
+491
+
+Inter
+Gagliardini
+Inter - Midfielder
+1
+1
+1
+0
+66
+5
+491
+
+LOSC
+Ben Arfa
+LOSC - Midfielder
+1
+1
+1
+0
+22
+2
+491
+
+Dortmund
+Emre Can
+Dortmund - Defender
+1
+1
+0
+1
+74
+2
+491
+
+Zenit
+Sutormin
+Zenit - Midfielder
+1
+1
+0
+0
+293
+4
+491
+
+Beşiktaş
+Mehmet Topal
+Beşiktaş - Midfielder
+1
+1
+0
+0
+261
+3
+491
+
+Liverpool
+Morton
+Liverpool - Midfielder
+1
+1
+0
+0
+180
+2
+491
+
+Barcelona
+L. de Jong
+Barcelona - Forward
+1
+1
+0
+0
+179
+3
+491
+
+Villarreal
+Aurier
+Villarreal - Defender
+1
+1
+0
+0
+129
+5
+491
+
+Barcelona
+Demir
+Barcelona - Midfielder
+1
+1
+0
+0
+101
+3
+491
+
+Shakhtar Donetsk
+Traoré
+Shakhtar Donetsk - Forward
+1
+1
+0
+0
+101
+2
+491
+
+Milan
+Florenzi
+Milan - Defender
+1
+1
+0
+0
+88
+4
+491
+
+Salzburg
+Piątkowski
+Salzburg - Defender
+1
+1
+0
+0
+84
+2
+491
+
+Juventus
+De Winter
+Juventus - Defender
+1
+1
+0
+0
+81
+2
+491
+
+Young Boys
+Kanga
+Young Boys - Forward
+1
+1
+0
+0
+75
+5
+491
+
+Man. United
+Diallo
+Man. United - Midfielder
+1
+1
+0
+0
+68
+1
+491
+
+Shakhtar Donetsk
+Sudakov
+Shakhtar Donetsk - Midfielder
+1
+1
+0
+0
+56
+2
+491
+
+Wolfsburg
+F. Nmecha
+Wolfsburg - Midfielder
+1
+1
+0
+0
+36
+2
+491
+
+Atalanta
+Al. Miranchuk
+Atalanta - Forward
+1
+1
+0
+0
+33
+2
+491
+
+Malmö
+Dahlin
+Malmö - Goalkeeper
+1
+0
+1
+0
+315
+4
+491
+
+Shakhtar Donetsk
+Vitão
+Shakhtar Donetsk - Defender
+1
+0
+1
+0
+90
+1
+491
+
+Paris
+Kehrer
+Paris - Defender
+1
+0
+1
+0
+70
+4
+491
+
+Atalanta
+Lovato
+Atalanta - Defender
+1
+0
+1
+0
+45
+1
+491
+
+Porto
+Francisco Conceição
+Porto - Forward
+1
+0
+1
+0
+37
+2
+491
+
+Villarreal
+Peña
+Villarreal - Defender
+1
+0
+1
+0
+18
+2
+491
+
+Sheriff
+Cojocaru
+Sheriff - Midfielder
+1
+0
+1
+0
+15
+2
+491
+
+Juventus
+Ramsey
+Juventus - Midfielder
+1
+0
+1
+0
+14
+2
+491
+
+Shakhtar Donetsk
+Dentinho
+Shakhtar Donetsk - Midfielder
+1
+0
+1
+0
+4
+1
+491
+
+Sevilla
+Bounou
+Sevilla - Goalkeeper
+1
+0
+0
+0
+540
+6
+491
+
+Liverpool
+Gomez
+Liverpool - Defender
+1
+0
+0
+0
+245
+7
+491
+
+Shakhtar Donetsk
+Kryvtsov
+Shakhtar Donetsk - Defender
+1
+0
+0
+0
+192
+3
+491
+
+Benfica
+Morato
+Benfica - Defender
+1
+0
+0
+0
+180
+2
+491
+
+Dortmund
+Pongračić
+Dortmund - Defender
+1
+0
+0
+0
+170
+5
+491
+
+Real Madrid
+Marcelo
+Real Madrid - Defender
+1
+0
+0
+0
+93
+3
+491
+
+Man. City
+Egan-Riley
+Man. City - Defender
+1
+0
+0
+0
+90
+1
+491
+
+Shakhtar Donetsk
+Bondar
+Shakhtar Donetsk - Defender
+1
+0
+0
+0
+90
+1
+491
+
+Villarreal
+Alcácer
+Villarreal - Forward
+1
+0
+0
+0
+73
+3
+491
+
+Man. City
+Ferran Torres
+Man. City - Forward
+1
+0
+0
+0
+71
+1
+491
+
+Leipzig
+Henrichs
+Leipzig - Defender
+1
+0
+0
+0
+51
+4
+491
+
+Benfica
+Radonjić
+Benfica - Forward
+1
+0
+0
+0
+31
+1
+491
+
+Barcelona
+Balde
+Barcelona - Defender
+1
+0
+0
+0
+19
+2
+491
+
+Dynamo Kyiv
+Eric Ramirez
+Dynamo Kyiv - Forward
+1
+0
+0
+0
+16
+2
+491
+
+LOSC
+Bradarić
+LOSC - Defender
+1
+0
+0
+0
+13
+1
+491
+
+Villarreal
+Iborra
+Villarreal - Midfielder
+1
+0
+0
+0
+10
+1
+491
+
+LOSC
+Zhegrova
+LOSC - Midfielder
+1
+0
+0
+0
+9
+1
+491
+
+Juventus
+Chiellini
+Juventus - Defender
+1
+0
+0
+0
+7
+1
